@@ -1,5 +1,5 @@
 # 💫 About Me:
-I''m a Computer science engineering graduate and currently gaining hands-on experience in Redhat Linux Enterprise
+I'm a Computer Science Engineering graduate and currently gaining hands-on experience in Redhat Enterprise Linux(RHEL)
 
 
 ## 🌐 Socials:
